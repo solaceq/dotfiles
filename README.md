@@ -6,7 +6,7 @@ Hello Everynyan! Thanks for visiting my repo!
 
 ## Notes
 
-- I user Hyprland. And I am a anime girl lover.
+- I user Hyprland. And I am an anime girl lover.
   
 
 ---
