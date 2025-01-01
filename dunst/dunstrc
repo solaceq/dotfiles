@@ -1,0 +1,23 @@
+[global]
+font = CaskaydiaCoveNF:size=13
+corner_radius = 10
+background = "#2F1E2E"
+foreground = "#cdd6f4"
+frame_width = 2
+frame_color = "#cba6f7"
+origin = top-center
+horizontal_padding = 10
+width = (0, 500)
+offset = 0x10
+
+[urgency_low]
+foreground = "#6D6875"
+frame_color = "#6D6875"
+
+[urgency_normal]
+foreground = "#cba6f7"
+frame_color = "#cba6f7"
+
+[urgency_critical]
+foreground = "#FFA737"
+frame_color = "#FFA737"
