@@ -1,14 +1,13 @@
 # The Dotfiles
 
-Thanks for visiting my dotfiles repo!
-Have a good look!
+Hello Everynyan! Thanks for visiting my repo!
 
 ---
 
 ## Notes
 
-- I am using Hyprland now so I won't be able to
-  contribute qtile config.
+- I user Hyprland. And I am a anime girl lover.
+  
 
 ---
 
